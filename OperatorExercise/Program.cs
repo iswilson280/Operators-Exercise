@@ -6,7 +6,7 @@
         {
             
              Console.WriteLine("17/4 is 4 remainder 1");
-            {
+            
 
 
 
@@ -18,8 +18,12 @@
 
                 if (a == 17 && b == 4)
 
-                    Console.WriteLine(a);
-            }
-}
-}
+                Console.WriteLine(a);
+
+            Console.WriteLine("What is the radius of the circle?");
+            var radius = double.Parse(Console.ReadLine());
+            AreaOfCircle.Circle(20);
+
+        }
+    }
 }
