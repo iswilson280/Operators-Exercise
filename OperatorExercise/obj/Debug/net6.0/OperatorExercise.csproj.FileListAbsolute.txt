@@ -1,0 +1,15 @@
+/Users/isaiah/Desktop/Repos/Operators-Exercise/OperatorExercise/bin/Debug/net6.0/OperatorExercise
+/Users/isaiah/Desktop/Repos/Operators-Exercise/OperatorExercise/bin/Debug/net6.0/OperatorExercise.deps.json
+/Users/isaiah/Desktop/Repos/Operators-Exercise/OperatorExercise/bin/Debug/net6.0/OperatorExercise.runtimeconfig.json
+/Users/isaiah/Desktop/Repos/Operators-Exercise/OperatorExercise/bin/Debug/net6.0/OperatorExercise.dll
+/Users/isaiah/Desktop/Repos/Operators-Exercise/OperatorExercise/bin/Debug/net6.0/OperatorExercise.pdb
+/Users/isaiah/Desktop/Repos/Operators-Exercise/OperatorExercise/obj/Debug/net6.0/OperatorExercise.csproj.AssemblyReference.cache
+/Users/isaiah/Desktop/Repos/Operators-Exercise/OperatorExercise/obj/Debug/net6.0/OperatorExercise.GeneratedMSBuildEditorConfig.editorconfig
+/Users/isaiah/Desktop/Repos/Operators-Exercise/OperatorExercise/obj/Debug/net6.0/OperatorExercise.AssemblyInfoInputs.cache
+/Users/isaiah/Desktop/Repos/Operators-Exercise/OperatorExercise/obj/Debug/net6.0/OperatorExercise.AssemblyInfo.cs
+/Users/isaiah/Desktop/Repos/Operators-Exercise/OperatorExercise/obj/Debug/net6.0/OperatorExercise.csproj.CoreCompileInputs.cache
+/Users/isaiah/Desktop/Repos/Operators-Exercise/OperatorExercise/obj/Debug/net6.0/OperatorExercise.dll
+/Users/isaiah/Desktop/Repos/Operators-Exercise/OperatorExercise/obj/Debug/net6.0/refint/OperatorExercise.dll
+/Users/isaiah/Desktop/Repos/Operators-Exercise/OperatorExercise/obj/Debug/net6.0/OperatorExercise.pdb
+/Users/isaiah/Desktop/Repos/Operators-Exercise/OperatorExercise/obj/Debug/net6.0/OperatorExercise.genruntimeconfig.cache
+/Users/isaiah/Desktop/Repos/Operators-Exercise/OperatorExercise/obj/Debug/net6.0/ref/OperatorExercise.dll
